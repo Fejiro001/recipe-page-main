@@ -805,7 +805,7 @@ section {
 @font-face {
   font-family: "Outfit";
 
-  /* regular, semibold, bold */
+  font-display: swap;
 
   font-weight: 400 600 700;
 
@@ -815,7 +815,7 @@ section {
 @font-face {
   font-family: "Young Serif";
 
-  /* font-weight: 400; */
+  font-display: swap;
 
   src: url("./fonts/young-serif/YoungSerif-Regular.ttf") format("truetype");
 }
