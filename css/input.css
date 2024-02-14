@@ -20,7 +20,12 @@
         @apply font-primary2;
         @apply text-3xl;
         @apply text-nutmeg;
-        @apply mb-4;
+    }
+
+    p {
+        @apply font-primary1;
+        @apply text-wenge-brown;
+        @apply font-normal;
     }
 
     ul {
@@ -36,7 +41,7 @@
     
     li {
         @apply font-primary1;
-        @apply ps-3;
+        @apply ps-4;
         @apply text-base;
         @apply text-wenge-brown;
     }
@@ -48,5 +53,27 @@
     span {
         @apply font-bold;
         @apply text-dark-charcoal;
+    }
+
+    tr {
+        @apply grid;
+        @apply grid-cols-2;
+        @apply justify-evenly;
+        @apply py-3;
+        @apply hover:bg-rose-white;
+    }
+    
+    td {
+        @apply odd:ps-8;
+        @apply odd:text-wenge-brown;
+        @apply odd:font-normal;
+        @apply even:text-nutmeg;
+        @apply even:font-bold;
+    }
+    
+    section {
+        @apply flex;
+        @apply flex-col;
+        /* @apply gap-4; */
     }
 }

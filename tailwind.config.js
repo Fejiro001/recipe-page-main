@@ -16,6 +16,9 @@ module.exports = {
         primary1: ["Outfit", "sans-serif"],
         primary2: ["Young Serif", "sans-serif"],
       },
+      maxWidth: {
+        '2.5xl': '46rem',
+      },
     },
   },
   plugins: [],
