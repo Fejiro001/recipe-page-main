@@ -16,13 +16,12 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 
 ### Screenshot
 
-![](./screenshot.jpg)
 ![](./design/Screenshot%202024-02-14%20at%2019-10-06%20Frontend%20Mentor%20Recipe%20page.png)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://fejiro001.github.io/recipe-page-main/)
+- Solution URL: [Solution URL here](https://your-solution-url.com)
+- Live Site URL: [Live site URL here](https://fejiro001.github.io/recipe-page-main/)
 
 ## My process
 
