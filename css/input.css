@@ -60,7 +60,7 @@
         @apply grid-cols-2;
         @apply justify-evenly;
         @apply py-3;
-        @apply hover:bg-rose-white;
+        @apply hover:bg-eggshell;
     }
     
     td {

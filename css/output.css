@@ -502,7 +502,7 @@ tr {
 
 tr:hover {
   --tw-bg-opacity: 1;
-  background-color: hsl(330 100% 98% / var(--tw-bg-opacity));
+  background-color: hsl(30 54% 90% / var(--tw-bg-opacity));
 }
 
 td:nth-child(odd) {
